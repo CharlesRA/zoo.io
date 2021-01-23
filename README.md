@@ -1,2 +1,1 @@
-# zoo.io
-Three.js experiences
+🐘 Three.js experiences 🐘
